@@ -1,0 +1,2 @@
+Welcome tot the first text file in the git repositary
+HELLO WORLD
